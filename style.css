@@ -1,0 +1,19 @@
+<body background="background.jpg">
+<h1  style="background-color:Yellow;">Annyeong haseyo...;)</h1>
+<img src="IMG-0190.JPG" widht="300" height="300" />
+<h2 style="background-color:red;"> Hallo Guys ;)</h2>
+table {
+  font-family: arial italic, calibri;
+  border-collapse: collapse;
+  width: 100%;
+}
+td, th {
+  border: 1px solid Ivory;
+  text-align: left;
+  padding: 8px;
+}
+tr:nth-child(even) {
+  background-color:gray;
+}
+<table style="width:100%">
+<p style="background-color:silver;">
